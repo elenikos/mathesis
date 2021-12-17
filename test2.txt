@@ -1,2 +1,3 @@
 First entry here
 second entry, still in master
+new entry from b1
